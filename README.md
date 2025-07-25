@@ -9,7 +9,7 @@ g++ -o main main_d1 utils.cc misc.cc
 Some tests:
 - bias.cc (testing the change Square Euclidean Distance when varying minus and plus, -pthread needed)
 - code_statistic.cc (average error weight for covering codes, probability of keeping desirable codewords)
-- divergence.cc (testing the divergence with the theoretical distribution, when generating random samples, -pthread needed)
+
 
 
 ./complexity_estimation (Python)
