@@ -1,0 +1,230 @@
+NBR SAMPLES:45
+49
+Secret: 1 4 16 8 32 2 64 
+-------------------------------------
+2
+Checking depth 0: 
+48510
+48510
+total:18534775/ Effective: 2647825 / Ratio: 7
+Checking final list size: 
+2647825
+0 0 0 14 84 95 0 
+0 0 0 66 78 71 0 
+0 0 0 102 29 108 0 
+0 0 1 68 88 65 0 
+0 0 1 76 7 111 0 
+0 0 2 54 3 19 0 
+0 0 2 81 4 34 0 
+0 0 2 114 84 71 0 
+0 0 3 107 117 115 0 
+0 0 4 64 114 45 0 
+Sample For guessing: 232782
+CORRECT GUESS STATISTIC: 
+Correct guess 21 42 
+Random Guess statistic: 
+----------------
+Wrong guess is farther from Uniform than Correct guess
+11 48 
+-10.4901
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+15 110 
+-10.5568
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+16 32 
+-10.4837
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+21 116 
+-10.5558
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+24 122 
+-10.543
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+25 44 
+-10.5594
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+26 106 
+-10.4607
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+27 8 
+-10.5153
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+28 102 
+-10.5081
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+28 120 
+-10.5313
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+31 47 
+-10.4915
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+36 64 
+-10.5521
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+40 25 
+-10.5576
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+51 73 
+-10.5339
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+54 4 
+-10.5182
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+54 102 
+-10.5111
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+59 75 
+-10.4421
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+60 6 
+-10.5341
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+62 1 
+-10.5202
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+62 6 
+-10.552
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+62 76 
+-10.536
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+62 113 
+-10.4774
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+64 39 
+-10.5027
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+65 50 
+-10.3701
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+70 97 
+-10.4969
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+72 32 
+-10.5405
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+74 6 
+-10.4314
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+74 101 
+-10.5575
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+76 109 
+-10.4062
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+81 107 
+-10.5347
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+85 20 
+-10.5476
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+87 111 
+-10.4278
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+105 58 
+-10.4938
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+108 85 
+-10.5197
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+109 110 
+-10.4577
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+112 21 
+-10.5408
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+114 36 
+-10.467
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+117 14 
+-10.5464
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+124 93 
+-10.5272
+--------------
+----------------
+Wrong guess is farther from Uniform than Correct guess
+125 63 
+-10.5534
+--------------
+SEI CORRECT GUESS to PUniform: = 2^-10.55981445
+SEI CORRECT GUESS to PTheory = 2^-10.99824142
+Average SEI of WRONG GUESS to PUniform = 2^-11.0253675
+Average SEI of WRONG GUESS to PTheory = 2^-10.66813729
+NBR SAMPLES:45

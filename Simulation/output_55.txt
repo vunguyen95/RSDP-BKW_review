@@ -1,0 +1,30 @@
+NBR SAMPLES:55
+49
+Secret: 1 4 16 8 32 2 64 
+-------------------------------------
+2
+Checking depth 0: 
+72765
+72765
+total:41688402/ Effective: 5955486 / Ratio: 7
+Checking final list size: 
+5955486
+0 0 0 14 51 99 0 
+0 0 0 14 79 95 0 
+0 0 0 36 0 119 0 
+0 0 0 76 105 122 0 
+0 0 0 80 113 61 0 
+0 0 1 11 18 18 0 
+0 0 1 18 86 111 0 
+0 0 1 22 122 37 0 
+0 0 1 39 22 45 0 
+0 0 2 4 33 91 0 
+Sample For guessing: 486674
+CORRECT GUESS STATISTIC: 
+Correct guess 21 42 
+Random Guess statistic: 
+SEI CORRECT GUESS to PUniform: = 2^-11.41289806
+SEI CORRECT GUESS to PTheory = 2^-12.32086849
+Average SEI of WRONG GUESS to PUniform = 2^-12.30686958
+Average SEI of WRONG GUESS to PTheory = 2^-11.55450245
+NBR SAMPLES:55

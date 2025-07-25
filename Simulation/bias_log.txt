@@ -1,0 +1,33 @@
+//VERIFICATION OF SEI:
+
+- Test if the bias is comparable with the estimate.
+- Test if the bias depend only on the total number of terms (does not matter plus or minus)
+
+-------------- TEST CASES ----------------------:
+
+a) W = 8, generate 10^7 numbers x 10 times
+-Estimate from theory: 2^{-7.277589375}
+-Only plus (only from E): 2^{-7.273329258}
+- plus = 4, minus = 4: 2^{-7.268810749}
+- plus = 3, minus = 5: 2^{-7.273311615}
+- plus = 5, minus = 3: 2^{-7.278990746}
+- plus = 6, minus = 2: 2^{--7.276655197}
+- plus = 2, minus = 6; 2^{-7.281584263}
+- plus = 0, minus = 8: 2^{-7.273794174 }
+
+b) W = 10, generate 10^7 numbers x 12 times
+-Estimate from theory: 2^{-10.07173142378}
+-Only plus (only from E): 2^{-10.06840992}
+- plus = 5, minus = 5: 2^{-10.05672836}
+- plus = 0, minus = 10: 2^{-10.07048321 }
+
+c) W = 13, generate 10^8 x 12 times
+- Estimate from theory 2^{-14.244072197714}
+- plus = 13, minus = 0: 2^{-14.21327591}
+- plus = 0, minus = 13: 2^{-14.21781635}
+- plus = 6, minus = 7: 2^{-14.20982838}
+- plus = 7, minus = 6: 2^{-14.20092678}
+
+d) W = 20, generate 10^9 numbers x 10 times (taking too long (~30 mins))
+- Estimate from theory: 2^{-23.966200317}
+- plus = 10, minus = 10 2^{-22.31948662} (probably not enough numbers to measure such small bias)
